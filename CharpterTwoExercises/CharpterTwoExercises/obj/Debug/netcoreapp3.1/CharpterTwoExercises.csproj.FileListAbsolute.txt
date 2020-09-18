@@ -1,0 +1,13 @@
+C:\Users\owner\source\repos\CharpterTwoExercises\CharpterTwoExercises\bin\Debug\netcoreapp3.1\CharpterTwoExercises.exe
+C:\Users\owner\source\repos\CharpterTwoExercises\CharpterTwoExercises\bin\Debug\netcoreapp3.1\CharpterTwoExercises.deps.json
+C:\Users\owner\source\repos\CharpterTwoExercises\CharpterTwoExercises\bin\Debug\netcoreapp3.1\CharpterTwoExercises.runtimeconfig.json
+C:\Users\owner\source\repos\CharpterTwoExercises\CharpterTwoExercises\bin\Debug\netcoreapp3.1\CharpterTwoExercises.runtimeconfig.dev.json
+C:\Users\owner\source\repos\CharpterTwoExercises\CharpterTwoExercises\bin\Debug\netcoreapp3.1\CharpterTwoExercises.dll
+C:\Users\owner\source\repos\CharpterTwoExercises\CharpterTwoExercises\bin\Debug\netcoreapp3.1\CharpterTwoExercises.pdb
+C:\Users\owner\source\repos\CharpterTwoExercises\CharpterTwoExercises\obj\Debug\netcoreapp3.1\CharpterTwoExercises.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\CharpterTwoExercises\CharpterTwoExercises\obj\Debug\netcoreapp3.1\CharpterTwoExercises.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\CharpterTwoExercises\CharpterTwoExercises\obj\Debug\netcoreapp3.1\CharpterTwoExercises.AssemblyInfo.cs
+C:\Users\owner\source\repos\CharpterTwoExercises\CharpterTwoExercises\obj\Debug\netcoreapp3.1\CharpterTwoExercises.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\CharpterTwoExercises\CharpterTwoExercises\obj\Debug\netcoreapp3.1\CharpterTwoExercises.dll
+C:\Users\owner\source\repos\CharpterTwoExercises\CharpterTwoExercises\obj\Debug\netcoreapp3.1\CharpterTwoExercises.pdb
+C:\Users\owner\source\repos\CharpterTwoExercises\CharpterTwoExercises\obj\Debug\netcoreapp3.1\CharpterTwoExercises.genruntimeconfig.cache
